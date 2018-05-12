@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '33978'
     url: http://www.gutenberg.org/2009/agents/33978
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29546#Where-Half-The-World-Is-Waking-Up--13-The-Old-and-the-New-in-Japan-China-the-Philippines-and-_
 gutenberg_issued: '2009-07-30'
 gutenberg_type: Text
 identifiers:
