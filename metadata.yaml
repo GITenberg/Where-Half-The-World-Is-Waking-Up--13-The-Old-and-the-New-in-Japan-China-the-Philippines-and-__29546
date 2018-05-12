@@ -1,0 +1,29 @@
+_repo: Where-Half-The-World-Is-Waking-Up--13-The-Old-and-the-New-in-Japan-China-the-Philippines-and-__29546
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Poe, Clarence Hamilton
+    birthdate: 1881
+    deathdate: 1964
+    gutenberg_agent_id: '33978'
+    url: http://www.gutenberg.org/2009/agents/33978
+description: ''
+gutenberg_issued: '2009-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29546'
+  lccn: '12000130'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'East Asia'
+- !lcsh 'Civilization, Oriental'
+title: "Where Half The World Is Waking Up\r\nThe Old and the New in Japan, China,\
+  \ the Philippines, and India, Reported With Especial Reference to American Conditions"
+url: http://www.gutenberg.org/ebooks/29546
